@@ -1,9 +1,9 @@
-# Digitando Números
+# Typing Numbers  
 
-Este é um programa simples em Java para console que demonstra como ler e validar diferentes tipos de dados digitados pelo teclado.
+This is a simple Java console program that demonstrates how to read and validate different types of data entered via the keyboard.  
 
-## 📌 Descrição
-O programa exibe um menu que permite ao usuário inserir valores de vários tipos de dados:
+## 📌 Description  
+The program displays a menu that allows the user to enter values of various data types:  
 - String  
 - byte  
 - short  
@@ -14,10 +14,10 @@ O programa exibe um menu que permite ao usuário inserir valores de vários tipo
 - char  
 - boolean  
 
-Ele utiliza a classe auxiliar **Teclado** para lidar com a entrada e a validação dos dados.  
-Se o usuário digitar um valor inválido, uma mensagem de erro é exibida e o programa continua rodando até que a opção **"j" (sair)** seja escolhida.
+It uses the helper class **Teclado** to handle input and data validation.  
+If the user enters an invalid value, an error message is displayed, and the program keeps running until option **"j" (exit)** is chosen.  
 
-## ▶️ Como Executar
-1. Copia a URL do repositório;
-2. Abra no IntelliJ IDEA;
-3. Agora basta rodar o programa no IntelliJ IDEA e interagir com o menu.
+## ▶️ How to Run  
+1. Copy the repository URL;  
+2. Open it in IntelliJ IDEA;  
+3. Run the program in IntelliJ IDEA and interact with the menu.  
